@@ -11,6 +11,13 @@ This document discusses the standards of documenting changes, results, and takea
     - At the same time, LaTeX would have been the gold standard, but the time to get that up and running took too much effort and had too many side effects.
 2. Studies, design, models, and other work items shall not be considered complete without a corresponding writeup.
 3. Images in documentation shall be included at the highest possible level.
+4. All markdown files shall include an overview section discussing what the goal of the document is. This shall be the first section under the title, and shall be called one of:
+
+    - Overview
+    - Summary
+    - Objective(s)
+
+5. Each markdown document will include one and only one header section to give it a name.
 
 ## Documentation Sections
 
