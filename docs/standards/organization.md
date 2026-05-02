@@ -10,6 +10,7 @@ This document discusses the standards for organizing folders and files in this r
 2. If there are a bajillion items in a folder, you need a little more organization.
 3. All lowercase folder and file names.
 4. No spaces in file or folder names.
+5. Avoid top-level files unless required.
 
 ## High Level Architecture
 
