@@ -42,4 +42,5 @@ Markdown is the documentation format that I went with.
 
 ## Future Work
 
-- I would like to figure out how to take markdown files and turn them into PDFs so that we can have static products.
+- Trade ReST and extended markdown.
+- Figure out some way to make images.
